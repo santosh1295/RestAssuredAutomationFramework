@@ -32,3 +32,11 @@
 [INFO ] 2023-10-04 14:02:42.375 [main] RestAssuredAutomationFramework_test - Get User Data executed.
 [INFO ] 2023-10-04 14:02:45.765 [main] RestAssuredAutomationFramework_test - Update User executed.
 [INFO ] 2023-10-04 14:02:47.307 [main] RestAssuredAutomationFramework_test - Delete User executed.
+[INFO ] 2023-10-09 20:52:38.740 [main] RestAssuredAutomationFramework_test - Create User executed.
+[INFO ] 2023-10-09 20:52:40.363 [main] RestAssuredAutomationFramework_test - Get User Data executed.
+[INFO ] 2023-10-09 20:52:43.581 [main] RestAssuredAutomationFramework_test - Update User executed.
+[INFO ] 2023-10-09 20:52:45.857 [main] RestAssuredAutomationFramework_test - Delete User executed.
+[INFO ] 2023-10-09 20:55:21.301 [main] RestAssuredAutomationFramework_test - Create User executed.
+[INFO ] 2023-10-09 20:55:23.292 [main] RestAssuredAutomationFramework_test - Get User Data executed.
+[INFO ] 2023-10-09 20:55:26.359 [main] RestAssuredAutomationFramework_test - Update User executed.
+[INFO ] 2023-10-09 20:55:27.845 [main] RestAssuredAutomationFramework_test - Delete User executed.
