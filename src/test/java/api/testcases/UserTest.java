@@ -110,14 +110,11 @@ public class UserTest {
 		//log response
 		response.then().log().all();
 
-
 		//validation
 		Assert.assertEquals(response.getStatusCode(),200);
 
-		
 		//log
-				logger.info("Delete User executed.");
-
+		logger.info("Delete User executed.");
 
 	}
 }
