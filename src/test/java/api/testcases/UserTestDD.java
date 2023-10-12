@@ -48,7 +48,6 @@ public class UserTestDD {
 		//log response
 		response.then().log().all();
 
-
 		//validation
 		Assert.assertEquals(response.getStatusCode(),200);
 
@@ -65,7 +64,6 @@ public class UserTestDD {
 
 		//log response
 		response.then().log().all();
-
 
 		//validation
 		Assert.assertEquals(response.getStatusCode(),200);
