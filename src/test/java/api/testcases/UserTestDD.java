@@ -51,7 +51,6 @@ public class UserTestDD {
 		//validation
 		Assert.assertEquals(response.getStatusCode(),200);
 
-
 	}
 
 	@Test(priority=3,dataProvider = "UserNamesData", dataProviderClass = DataProviders.class)
@@ -67,8 +66,6 @@ public class UserTestDD {
 
 		//validation
 		Assert.assertEquals(response.getStatusCode(),200);
-
-
 
 	}
 
